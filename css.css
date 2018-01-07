@@ -1,0 +1,20 @@
+body {
+    background: url("gym2.jpeg") no-repeat center center fixed
+}
+
+div{
+    color: rgb(16,23,31);
+    text-align: center;
+    font-size: 200%;
+    margin-top: 125px;
+    font-family: 'Righteous', cursive;
+}
+
+button{
+    background: url(backgroundpng1.png);
+    border-radius: 8px;
+    font-size: 65%;
+    font-family: 'Julius Sans One', sans-serif;
+    color: aliceblue
+    
+}
